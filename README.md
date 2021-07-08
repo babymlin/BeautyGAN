@@ -1,6 +1,6 @@
 # BeautyGAN
 
-###  輸入圖片自動擷取臉部位置後再上妝
+### 輸入圖片使用Dlib擷取臉部區域後再上妝
 
 ### 修改自https://github.com/Honlan/BeautyGAN
 
